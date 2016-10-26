@@ -1,0 +1,21 @@
+{
+  "name": "greppage",
+  "main": "./lib/greppage",
+  "version": "0.0.0",
+  "description": "Code faster by searching snippets from GrepPage",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "greppage:open-search",
+      "greppage:search-selection"
+    ]
+  },
+  "repository": "https://github.com/atom/greppage",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.15.2"
+  }
+}

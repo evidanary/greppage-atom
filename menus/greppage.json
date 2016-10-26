@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Search GrepPage with Selection",
+        "command": "greppage:search-selection"
+      },
+      {
+        "label": "Toggle GrepPage Search Pane",
+        "command": "greppage:open-search"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "greppage",
+          "submenu": [
+            {
+              "label": "Search Selection",
+              "command": "greppage:search-selection"
+            },
+            {
+              "label": "Toggle Search Pane",
+              "command": "greppage:open-search"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
