@@ -16,7 +16,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "greppage",
+          "label": "GrepPage",
           "submenu": [
             {
               "label": "Search Selection",
