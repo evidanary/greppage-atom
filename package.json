@@ -3,7 +3,13 @@
   "main": "./lib/greppage",
   "version": "0.0.0",
   "description": "Code faster by searching snippets from GrepPage",
-  "keywords": [],
+  "keywords": [
+    "GrepPage",
+    "code",
+    "snippets",
+    "ruby",
+    "python"
+  ],
   "activationCommands": {
     "atom-workspace": [
       "greppage:open-search",
@@ -11,7 +17,7 @@
       "greppage:search-line"
     ]
   },
-  "repository": "https://github.com/atom/greppage",
+  "repository": "https://github.com/evidanary/greppage-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
