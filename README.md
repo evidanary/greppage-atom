@@ -7,6 +7,7 @@ Code faster by searching snippets from GrepPage
 ## Install Package
 ```
 cd ~/../greppage-atom
+npm install
 apm link
 ```
 ## Shortcuts
