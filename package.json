@@ -7,7 +7,8 @@
   "activationCommands": {
     "atom-workspace": [
       "greppage:open-search",
-      "greppage:search-selection"
+      "greppage:search-selection",
+      "greppage:search-line"
     ]
   },
   "repository": "https://github.com/atom/greppage",

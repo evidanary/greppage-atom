@@ -23,6 +23,10 @@
               "command": "greppage:search-selection"
             },
             {
+              "label": "Search Line",
+              "command": "greppage:search-line"
+            },
+            {
               "label": "Toggle Search Pane",
               "command": "greppage:open-search"
             }

@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-alt-o": "greppage:search-selection",
-    "ctrl-alt-i": "greppage:open-search"
+    "ctrl-alt-i": "greppage:open-search",
+    "ctrl-alt-p": "greppage:search-line"
   }
 }
